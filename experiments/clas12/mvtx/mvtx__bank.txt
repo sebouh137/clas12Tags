@@ -1,0 +1,9 @@
+                 mvtx  |              bankid  |                                      mvtx bank ID  |  9100  |                  Di  
+                 mvtx  |              sector  |                                     sector number  |    1   |                  Di  
+                 mvtx  |               layer  |                                      layer number  |    2   |                  Di  
+                 mvtx  |           component  |                                     channel number |    3   |                  Di  
+                 mvtx  |           ADC_order  |                                          always 0  |    4   |                  Di  
+                 mvtx  |             ADC_ADC  |                                         3 bit ADC  |    5   |                  Di  
+                 mvtx  |            ADC_time  |                             8 bit time info (bco)  |    6   |                  Dd  
+                 mvtx  |             ADC_ped  |                                          always 0  |    7   |                  Di  
+                 mvtx  |                hitn  |                                        hit number  |   99   |                  Di  
