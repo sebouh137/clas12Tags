@@ -1,0 +1,5 @@
+foil1 | root | carbon foil z=-50mm | 0*mm 0*mm -50*mm | 0*deg 0*deg 0*deg | 333333 | Box | 1*mm 13*mm 0.05*mm | G4_GRAPHITE | no | 1 | 1 | 1 | 1 | 1 | no | no | no
+foil2 | root | carbon foil z=-45mm | 0*mm 0*mm -45*mm | 0*deg 0*deg 0*deg | 333333 | Box | 1*mm 13*mm 0.05*mm | G4_GRAPHITE | no | 1 | 1 | 1 | 1 | 1 | no | no | no
+foil3 | root | tungsten foil z=-40mm | 0*mm 0*mm -40*mm | 0*deg 0*deg 0*deg | 777777 | Box | 1*mm 13*mm 0.025*mm | G4_W | no | 1 | 1 | 1 | 1 | 1 | no | no | no
+foil4 | root | carbon foil z=-35mm | 0*mm 0*mm -35*mm | 0*deg 0*deg 0*deg | 333333 | Box | 1*mm 13*mm 0.05*mm | G4_GRAPHITE | no | 1 | 1 | 1 | 1 | 1 | no | no | no
+foil5 | root | carbon foil z=-30mm | 0*mm 0*mm -30*mm | 0*deg 0*deg 0*deg | 333333 | Box | 1*mm 13*mm 0.05*mm | G4_GRAPHITE | no | 1 | 1 | 1 | 1 | 1 | no | no | no
