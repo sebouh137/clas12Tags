@@ -1,0 +1,2 @@
+MVTX_EW_Al|sPHENIX MVTX support aluminum; PHG4MvtxSupport density 2.7 g/cm3|2.7|1|G4_Al 1|none|none|none|none|none
+MVTX_CarbonFiber|sPHENIX MVTX CF: 70 mass-% C + 30 mass-% H32C2N4O15 epoxy|1.987|4|G4_H 0.027466388232 G4_C 0.72045574074 G4_N 0.04771036223 G4_O 0.204367508798|none|none|none|none|none

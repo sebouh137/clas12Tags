@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gcard>
+  <detector name="mvtx_plusz_support" factory="TEXT" variation="original"/>
+</gcard>
